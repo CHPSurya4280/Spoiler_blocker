@@ -1,0 +1,1 @@
+A chrome extension that blocks the Money heist spoilers
